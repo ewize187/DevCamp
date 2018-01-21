@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36f99d20-b7f2-442a-9586-17c0f0894d06" name="Default" comment="U">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="36f99d20-b7f2-442a-9586-17c0f0894d06" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DevCampPortfolio/config/database.yml" afterPath="$PROJECT_DIR$/DevCampPortfolio/config/database.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DevCampPortfolio/config/routes.rb" afterPath="$PROJECT_DIR$/DevCampPortfolio/config/routes.rb" />
@@ -272,12 +271,20 @@
       <updated>1515854317193</updated>
       <workItem from="1515854318446" duration="5114000" />
       <workItem from="1515943547467" duration="9397000" />
-      <workItem from="1516141543426" duration="6379000" />
+      <workItem from="1516141543426" duration="6404000" />
     </task>
+    <task id="LOCAL-00001" summary="U">
+      <created>1516557567156</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516557567156</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20890000" />
+    <option name="totallyTimeSpent" value="20915000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -365,7 +372,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testing Blog data entry" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing Blog data entry" />
+    <MESSAGE value="U" />
+    <option name="LAST_COMMIT_MESSAGE" value="U" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
